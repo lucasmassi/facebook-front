@@ -1,0 +1,13 @@
+.profile {
+  float: right;
+  width: 200px;
+  margin-top: 18px;
+  margin-left: 5px;
+  font-size: 15px;
+  font-weight: bold;
+}
+
+.profile img {
+  width: 15px;
+  margin-left: 10px;
+}

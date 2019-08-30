@@ -1,0 +1,24 @@
+.comment-content .avatar {
+  width: 40px;
+  height: 40px;
+}
+
+.commentary {
+  background: #f0f0f0;
+  margin-left: 52px;
+  border-radius: 15px;
+}
+
+.comment-content p {
+  padding: 8px;
+  margin-left: 5px;
+  color: #5c5c5c;
+  margin-top: -38px;
+  font-size: 12px;
+  font-weight: 400px;
+  border-bottom: none;
+}
+
+.comment-content strong {
+  color: #302f2f;
+}
